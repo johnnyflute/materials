@@ -1,0 +1,2 @@
+http://www.tutorialspoint.com/index.htm "一个简明教程网站，dbms部分不错"
+http://www.cs.ucdavis.edu/~green/courses/ecs165a-w11/ "ucdavis关于dbms的教程"
