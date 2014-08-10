@@ -1,2 +1,6 @@
 print family:snprintf
 stdarg
+getsocketopt
+
+the errors:read/write recv/send connect
+tcp manpage,there are some errors the socket layer don't introduce
